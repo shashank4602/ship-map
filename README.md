@@ -1,17 +1,17 @@
-## Markers Symbol example
+## An App To Show
 
-Initialize a map with symbol markers based on geoJson data.
+1- Ship Location on Map
 
-![Demo gif](https://i.imgur.com/S0KcRen.gif)
+2- Port Location on Map
 
-### Run it
+3- Names of the ships passed through the port 
 
-    git clone https://github.com/shashank4602/ship-map.git
-    npm install
-    npm start
+4- Path of the ship movement on the selected date
 
-    open http://localhost:3000/
+## To run 
 
+1- Clone this app
 
+2- run npm i
 
-Runs the app from http://localhost:3000
+3- run npm start
