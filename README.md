@@ -6,7 +6,7 @@ Initialize a map with symbol markers based on geoJson data.
 
 ### Run it
 
-    git clone https://github.com/Ashirwad298/ship-map.git
+    git clone https://github.com/shashank4602/ship-map.git
     npm install
     npm start
 
