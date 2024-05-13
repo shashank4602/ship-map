@@ -6,7 +6,7 @@ import { SidePanel } from "./components/SidePanel";
 import { getLatestLocationOfShips, getParticularShipGeoData, getShipNames, getShipNamesPassedThroughPort } from "./shipsArray";
 
 mapboxgl.accessToken =
-  "pk.eyJ1IjoiYXNodXRob3IzMjEiLCJhIjoiY2x2c2l5cDhyMTBvNTJpcGFoZ3Z1NjdvZiJ9.i6zckAg_jgKGt1o4wzauRw";
+  "pk.eyJ1IjoiZXNwYWNlc2VydmljZSIsImEiOiJjbHZ1dHZjdTQwMDhrMm1uMnoxdWRibzQ4In0.NaprcMBbdX07f4eXXdr-lw";
 
 function getRandomColor() {
   // Generate random values for red, green, and blue components
